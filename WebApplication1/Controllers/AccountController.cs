@@ -10,6 +10,10 @@ using Microsoft.AspNet.Identity.Owin;
 using Microsoft.Owin.Security;
 using WebApplication1.Models;
 
+
+
+
+
 namespace WebApplication1.Controllers
 {
     [Authorize]
