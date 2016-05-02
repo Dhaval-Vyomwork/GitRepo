@@ -50,6 +50,8 @@ namespace WebApplication1.Controllers
             }
         }
 
+
+
         //
         // GET: /Manage/Index
         public async Task<ActionResult> Index(ManageMessageId? message)
