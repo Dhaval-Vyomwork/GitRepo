@@ -1,5 +1,0 @@
-This is textfile.
-
-Update Text in Files.
-
-Update from Git.
